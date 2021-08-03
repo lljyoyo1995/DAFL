@@ -1,0 +1,5 @@
+[Data-Free Learning of Student Networks](https://arxiv.org/abs/1904.01186) - ICCV 2019；
+[源码](https://github.com/andudu/DAFL)；
+训练集：GAN生成的无标签数据，测试集：MNIST带标签的测试集；
+预训练的Teacher网络作为Discriminator判别器；
+Generator生成器生成训练数据；
